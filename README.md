@@ -18,4 +18,4 @@ Hay que completar:
 - AWS secret access key
 - default region
 
-Hay que crear un usuario y generar las llaves desde la pagina de aws.
+Hay que crear un usuario y generar las llaves desde la pagina de [aws](https://us-east-1.console.aws.amazon.com/iamv2/home?region=us-east-1#/users).
